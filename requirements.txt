@@ -1,0 +1,16 @@
+# Core Python libraries
+numpy
+pandas
+scikit-learn
+
+# Gradient Boosting Models
+xgboost
+lightgbm
+catboost
+
+# Visualization
+matplotlib
+seaborn
+
+# Utilities
+joblib
